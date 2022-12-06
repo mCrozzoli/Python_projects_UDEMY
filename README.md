@@ -1,4 +1,4 @@
-# TicTacToe _ BLack Jack _ a kind of Tamagotchi _ GAMES (OOP)
+# TicTacToe _ BLack Jack _ a kind of Tamagotchi _ GAMES (OOP) and more!
 My milestone projects and more for the UDEMY course on Phyton: from zero to hero.
 
 You can read the assigment and check the games. In some cases I used the workthrough notebooks that they offer :)
